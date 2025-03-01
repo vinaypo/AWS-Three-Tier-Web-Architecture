@@ -32,6 +32,8 @@ INSERT INTO transactions (amount,description) VALUES ('285','House rent'); #to a
 SELECT * FROM transactions;
 exit
 --------------------------------
+
+add the changes in the dbconfig file
 #===============================
 # INSTALLING NODEJS
 #===============================
